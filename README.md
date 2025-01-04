@@ -2,12 +2,11 @@ Hi, I am Roshan Kanu!
 I am interested in sports
 I am currently learning basic java and java script
 I am looking to collaborate on Github
-Get in touch :
-               mail id : roshankanu123@gmail.com
-               contact details: 9151646416
                
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... mail id: roshankanu123@gmail.com
+-                         contact details: 9151646416
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
