@@ -10,7 +10,7 @@ const marketData = [
 ];
 
 const Markets = () => (
-  <div className=" bg-[#2a2a2a] rounded-xl m-3 p-4 shadow-md w-80">
+  <div className=" bg-[#2a2a2a] rounded-xl  p-4 shadow-md ">
     <h2 className="text-lg font-semibold mb-4 text-green-400">📈 Markets</h2>
     <ul className="space-y-2">
       {marketData.map((item, i) => (

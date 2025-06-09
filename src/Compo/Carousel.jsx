@@ -21,7 +21,7 @@ const slides = [
 const Carousel = () => {
   return (
     <Swiper
-      className="w-full m-4 h-[400px] rounded-xl overflow-hidden"
+      className="w-full m-5 h-[400px] rounded-xl overflow-hidden"
       modules={[Autoplay]}
       autoplay={{ delay: 3000, disableOnInteraction: false }}
       loop={true}

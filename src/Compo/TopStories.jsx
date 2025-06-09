@@ -17,15 +17,11 @@ const stories = [
     time: "1d",
     title: "Elon Musk Rammed Into US Treasury Secy Like A 'Rugby Player'; Did White...",
   },
-  {
-    source: "News 24",
-    time: "6d",
-    title: "Elon Musk Rammed Into US Treasury Secy Like A 'Rugby Player'; Did White...",
-  },
+ 
 ];
 
 const TopStories = () => (
-  <div className=" bg-[#2a2a2a] rounded-xl p-2 shadow-md m-2 w-80">
+  <div className=" bg-[#2a2a2a] rounded-xl p-2 shadow-md m-2 ">
     <h2 className="text-sm font-semibold mb-4">🔥 Top stories</h2>
     <ul className="space-y-3">
       {stories.map((story, i) => (
