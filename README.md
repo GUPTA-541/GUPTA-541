@@ -1,12 +1,50 @@
-# React + Vite
+# 📰 CrowBar News Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CrowBar is a responsive and dynamic news portal interface built using **React** and **Tailwind CSS**. It mimics a live news environment with features like top stories, market insights, blog-style news cards, and a sleek, user-friendly design.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to visit CrowBar](https://crow-bar-ltd-com-git-main-deepikabhatt16s-projects.vercel.app/)
 
-## Expanding the ESLint configuration
+## 📸 Project Overview
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is part of an assessment for the role of a **Frontend Developer**. It demonstrates my ability to:
+
+- Build responsive and accessible UIs
+- Work with modular React components
+- Apply clean, maintainable Tailwind CSS
+- Implement real-world layouts such as carousels, market cards, and navigation systems
+
+## 💡 Features
+
+- 🎯 **Top Stories Section**: Lists trending news with timestamps and sources.
+- 📈 **Market Panel**: Displays live updates for NIFTY, SENSEX, Gold, and more.
+- 📰 **News Cards**: Featured and latest articles presented in card format.
+- 🔁 **Carousel Slider**: Visual highlight of featured headlines.
+- 🧭 **Responsive Navbar**: Fully responsive with logo, site title, and page links.
+- 🌗 **Dark-Themed UI**: Clean, modern look with a dark aesthetic.
+
+## ⚙️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Vite** (assumed build tool for React)
+- **Deployed on Vercel**
+
+## 📁 Folder Structure (Simplified)
+src/
+│
+├── components/
+│ ├── Navbar.jsx
+│ ├── Carousel.jsx
+│ ├── TopStories.jsx
+│ ├── Markets.jsx
+│ ├── NewsCard.jsx
+│
+├── App.jsx
+├── index.css
+└── main.jsx
+✍️ Author
+Deepika Bhatt
+Frontend Developer Aspirant | Passionate about building real-world web applications
+https://www.linkedin.com/in/deepika-bhatt20/
